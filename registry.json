@@ -1,0 +1,17 @@
+{
+  "provider_id": "cloudflare-ai",
+  "name": "Cloudflare Workers AI",
+  "primary_model": "llama-3.1",
+  "models": [
+    "@cf/meta/llama-3.1-8b-instruct",
+    "@cf/mistral/mistral-7b-instruct-v0.1"
+  ],
+  "active": true,
+  "in_use_by": [],
+  "usage_stats": {
+    "requests": 0,
+    "tokens": 0,
+    "errors": 0
+  },
+  "created_at": "2026-04-09T04:33:51.490057Z"
+}
